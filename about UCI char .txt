@@ -1,0 +1,29 @@
+30 people 
+- 21 train 
+- 9 test
+6 activities
+3 axial lin acc (total)
+3 axial lin acc (body)
+3 axial ang vel 
+signals
+-128 rdings/window
+from each windw 
+- a vector of features
+
+
+
+
+
+UCI har
+1. test data 
+   1.1. 9 proccd signals - 2947*128
+   1.2. features X dataset - 2947*561
+   1.3. activity Y column - 2947 *1
+   1.4. sub ids column - 2947 *1
+2. train data
+   2.1. 9 proccd signals - 7352 *128
+   2.2. features X dataset - 7352*561
+   2.3. activity Y column - 7352 *1
+   2.4. sub ids column - 7352 *1
+ 3. explanatory files
+ 
